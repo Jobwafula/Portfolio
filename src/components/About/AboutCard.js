@@ -13,7 +13,7 @@ function AboutCard() {
             <br />
             I am currently employed as a software developer at Mutable Tech.
             <br />
-            Im currently pursuing Bsc. telecom and Information Technology at Pwani University
+            Im currently pursuing Bsc. Telecom and Information Technology at Pwani University
   .
             <br />
             <br />

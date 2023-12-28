@@ -17,13 +17,13 @@ function Footer() {
           <h3>Designed and Developed by Wafula Job</h3>
         </Col>
         <Col md="4" className="footer-copywright">
-          <h3>Copyright © {year} SB</h3>
+          <h3>Copyright © {year} WJ</h3>
         </Col>
         <Col md="4" className="footer-body">
           <ul className="footer-icons">
             <li className="social-icons">
               <a
-                href="https://github.com/WafulaJob"
+                href="https://github.com/JobWafula"
                 style={{ color: "white" }}
                 target="_blank" 
                 rel="noopener noreferrer"
@@ -43,7 +43,7 @@ function Footer() {
             </li>
             <li className="social-icons">
               <a
-                href="https://www.linkedin.com/in/WafulaJob/"
+                href="https://www.linkedin.com/in/job-wafula/"
                 style={{ color: "white" }}
                 target="_blank" 
                 rel="noopener noreferrer"
@@ -53,7 +53,7 @@ function Footer() {
             </li>
             <li className="social-icons">
               <a
-                href="https://www.instagram.com/WafulaJob"
+                href="https://www.instagram.com/jobwafula.ke"
                 style={{ color: "white" }}
                 target="_blank" 
                 rel="noopener noreferrer"
